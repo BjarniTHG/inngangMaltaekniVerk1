@@ -1,0 +1,1 @@
+print(len(open("ic3_30k.txt", encoding="utf-8").read().split()))

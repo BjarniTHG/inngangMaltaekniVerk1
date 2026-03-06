@@ -1,0 +1,16 @@
+4. áhættugreining
+
+Ég er tæpur á tíma því ég frestaði því of lengi að byrja á þessu verkefni, en here I go:
+LLM fact checkerar myndu líklega covera flest tilfelli, en ekki öll. Blaðamenn myndu byrja að ofurtraust á mati kerfisins, og fleiri
+rangfærslur eða mistök myndu skeða sem afleiðing þess, alveg eins og forritarar sem eru neyddir í að nota LLMS í 'productivity' skyni,
+sem síðan byrja að pusha LLM generatuðum kóða sem það skilur ekki djúpt. False positives eru líka möguleiki, þar sem blaðamaður
+færi að fara með rangt mál því kerfið sagði að það væri villa, þar sem var síðan ekki villa.
+Sá sem innleiðir kerfið og segir blaðamönnum að nota kerfið, og blaðamenn sem nota kerfið bera ábyrgð á því sem þau birta sjálf.
+Það væri út í hött að sakast við kerfið eða þá sem bjuggu kerfið til(nema að þeir hafi fullyrt fullkomnun og samið útfrá því eitthvern veginn).
+VeritasCheck er þar bara að bjóða upp á þjónustu/kerfi sem fréttastofur kusu síðan að nýta sér.
+Mér litist verr á Vísir t.d ef ég vissi að þeir stóluðu á slíkt kerfi til að greiða úr sínum villum.
+Einnig þætti mjög áhugavert hvernig slíkt kerfi ætti einu sinni að virka, þar sem fréttir/blaðamenn eru yfirleitt að fjalla um eitthvað sem
+er nýtt/nýlega búið að gerast, og þ.a.l ekki komið víða á textaformi, þannig hvernig ætti kerfið að vita hvað er satt/rétt í slíkum aðstæðum?
+Það væri þá bara aðallega gagnlegt þegar verið er að vísa í eitthvað annað, samt tengt, sem kemur fram í fréttinni.
+All in all þá þætti mér mjöööög líklegt að VeritasCheck myndi leiða til verri niðurstaðna heldur en ef slík þjónusta væri ekki hluti
+af ferlinu hjá fréttastofum.
